@@ -1,4 +1,4 @@
-#  Who is Yordanos Kassa?:
+#  Who is Yordanos Kassa ?
 💻 I am Yordanos Kassa. Full-stack web developer with expertise in React and Django.<br>🛠️ Experienced with Node.js, Express, and Flask for back-end development.<br>🎨 Skilled in front-end frameworks like Next.js and Vue.js for building dynamic user interfaces.<br>🤖 Passionate about applying Machine Learning and Data Science to web applications.<br>📊 Familiar with TensorFlow, PyTorch, and scikit-learn for building AI-driven solutions.<br>🔗 Enthusiast for REST APIs and GraphQL for seamless data integration.<br>🚀 Committed to continuous learning and experimenting with new technologies.<br>🖥️ Currently focused on building responsive, intuitive, and scalable applications.
 
 
