@@ -1,6 +1,5 @@
 #  Who is Yordanos Kassa ?
-💻 I like building cool sh_t
-
+💻 I like building cool stuff
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/xzjordy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/yordankassa) 
