@@ -1,20 +1,34 @@
-#  Yordanos Kassa
-We can help you build your dream app in 10 days! www.mazebuilders.com
+# Yordanos Kassa
 
+Full-stack developer focused on building intuitive, high-performance applications. Currently working on [dressr.app](https://dressr.app) — a smart wardrobe management platform.
 
+## What I Do
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/xzjordy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yordanokassa) 
+Building modern web applications with focus on user experience and performance. I work across the stack, from database design to responsive frontends, with a particular interest in real-time features and scalable architecture.
 
+## Current Focus
 
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=yordanoskassa&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yordanoskassa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+**dressr.app** — Smart wardrobe management  
+Helping users organize their clothing, plan outfits, and make better fashion decisions through an intuitive digital platform.
 
-### ✍️ 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## Tech Stack
+
+**Frontend:** React, Next.js, TypeScript, Tailwind CSS  
+**Backend:** Node.js, Express, PostgreSQL, Prisma  
+**Tools:** Git, Docker, Vercel, AWS
+
+## Experience
+
+Previously worked with [Maze Builders](https://mazebuilders.com), developing custom applications with 10-day delivery cycles. Focused on rapid prototyping and iterative development.
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yordanokassa)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/xzjordyy)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/xzjordy)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=yordanoskassa&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://github-readme-streak-stats.herokuapp.com/?user=yordanoskassa&theme=dark&hide_border=true&background=000000&ring=666666&fire=888888&currStreakLabel=888888)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yordanoskassa&theme=dark&hide_border=true&background=000000&layout=compact&title_color=888888&text_color=666666)
